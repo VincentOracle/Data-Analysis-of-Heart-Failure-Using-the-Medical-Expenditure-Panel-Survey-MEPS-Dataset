@@ -329,7 +329,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   
 **📧 Contact**: oumawere2001@gmail.com  
+
 **🌐 Website**: www.vincent.dataupskill.co.ke 
+
 **🐦 Twitter**: @oumawere1
 
 *Last Updated: January 2026*
